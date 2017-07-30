@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RelamTest</string>
+    <string name="title_activity_read_activitiy">ReadActivitiy</string>
+    <string name="title_activity_wirte">WirteActivity</string>
+    <string name="status_output">Status Output…</string>
+</resources>
